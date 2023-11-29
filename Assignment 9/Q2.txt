@@ -1,0 +1,15 @@
+Q -> . Explain the role of following key properties in flexbox layout model .
+   1 -> justify content :  
+
+	
+   2 -> align-items :  The align-items property specifies the default alignment for items inside a flexbox container or in given window.
+
+   3 -> gap :  The gap property defines the size ofthe gap between the rows and between the columns in flexbox layout.
+		 It is a shorthand for the properties row-gap and column-gap
+
+   4 -> flex-direction :  The flex-directionproperty specifies the direction of the flexible items.
+			  Note: If the element is not a flexible item, the flex-directionproperty has no effect.
+			  and for doing this we need to introduce 'display' property and set value 'flex' .
+
+   5 -> flex-wrap :  The flex-wrap CSS property sets whether flex items are forced onto one line or can wrap onto multiple lines.
+

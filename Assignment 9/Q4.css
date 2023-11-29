@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    line-height: 30px;
+}
+.main{
+
+    background-color: rgba(237, 231, 231, 0.98);
+    padding: 15px;
+    display: flex;
+    border: 3px solid black;
+    width: 800px;
+    height: 400px;
+   
+}
+.left-block{
+    background-color: white;
+    padding: 35px;
+    border-radius: 7px;
+    margin: 20px;
+    color: rgb(38, 38, 178);
+}
+.middle-block{
+    background-color: rgb(44, 44, 175);
+    padding: 35px;
+    border-radius: 7px;
+    margin: 20px;
+    color: white;
+}
+.right-block{
+    background-color: white;
+    padding: 35px;
+    border-radius: 7px;
+    margin: 20px;
+    color: rgb(38, 38, 178);
+}
+ul{
+    list-style:square;
+}
+button{
+    border-radius: 10px;
+    font-weight:bold;
+    background-color: rgb(38, 38, 178);
+    margin: 10px;
+}
